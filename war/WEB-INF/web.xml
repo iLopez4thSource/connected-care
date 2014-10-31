@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
-              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
          version="2.5"
          xmlns="http://java.sun.com/xml/ns/javaee">
-
-  <!-- Servlets -->
-   <display-name>Rest GWT</display-name>
-	<description>This is web-project for RestGWT</description>
+	<display-name>Connected Care</display-name>
+	<description>This is Web Project for Connected Care</description>
 
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
 		<param-value>/WEB-INF/applicationContext.xml</param-value>
 	</context-param>
 	
-	
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 	</listener>
 	
-	
-
-
-	
+	<!-- Servlets -->
 	<servlet>
-		<servlet-name>dispatcher</servlet-name>
+		<servlet-name>DispatcherRESTServices</servlet-name>
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
 		<init-param>
 			<param-name>contextConfigLocation</param-name>
@@ -33,15 +26,13 @@
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 
-	
 	<servlet-mapping>
-		<servlet-name>dispatcher</servlet-name>
+		<servlet-name>DispatcherRESTServices</servlet-name>
 		<url-pattern>/RESTServices/*</url-pattern>
 	</servlet-mapping>
   
-  <!-- Default page to serve -->
-  <welcome-file-list>
-    <welcome-file>ConnectedCare.html</welcome-file>
-  </welcome-file-list>
-
+	<!-- Default page to serve -->
+	<welcome-file-list>
+    	<welcome-file>ConnectedCare.html</welcome-file>
+	</welcome-file-list>
 </web-app>
