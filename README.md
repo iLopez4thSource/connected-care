@@ -1,2 +1,1 @@
-connected-care
-==============
+ConnectedCare Solution
