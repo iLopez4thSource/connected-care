@@ -3,6 +3,7 @@ package com.fourthsource.cc.client;
 import org.fusesource.restygwt.client.Method;
 import org.fusesource.restygwt.client.MethodCallback;
 
+import com.fourthsource.cc.client.service.TestService;
 import com.fourthsource.cc.shared.Message;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
