@@ -5,12 +5,11 @@ import org.fusesource.restygwt.client.JsonEncoderDecoder;
 import com.google.gwt.core.shared.GWT;
 
 public class Message {
-	
-    public String message;
-    public Long time;
+
+	private int code;
+    private String message;
 
     public interface MessageJED extends JsonEncoderDecoder<Message> {
-    	
     }
 
     @Override
@@ -22,5 +21,21 @@ public class Message {
         
         return super.toString();
     }
+
+	public int getCode() {
+		return code;
+	}
+
+	public void setCode(int code) {
+		this.code = code;
+	}
+
+	public String getMessage() {
+		return message;
+	}
+
+	public void setMessage(String message) {
+		this.message = message;
+	}
     
 }

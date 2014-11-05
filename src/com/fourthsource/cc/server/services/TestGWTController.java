@@ -13,8 +13,7 @@ public class TestGWTController {
 	@RequestMapping(value = "/getMessage", method = RequestMethod.GET, headers = "Accept=application/json")
 	public @ResponseBody Message getMessage() {
 		Message message = new Message();
-		message.message = "Hello";
-		message.time = System.currentTimeMillis() + 1000 * 60 * 30;
+		message.setMessage("Hello");
 		return message;
 	}
 	

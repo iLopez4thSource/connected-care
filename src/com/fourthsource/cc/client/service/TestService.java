@@ -20,6 +20,7 @@ public interface TestService extends RestService {
 	public static class Util {
 		
 		private static TestService instance;
+		
 		public static TestService getService() {
 			if(instance == null) {
 				instance = GWT.create(TestService.class);

@@ -325,3 +325,3066 @@ Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderI
       Compiling...
          Compilation completed in 0.01 seconds
       Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2877 units from cache.
+Compiling...
+   10% complete (ETR: 24 seconds)
+   10% complete (ETR: 24 seconds)
+   20% complete (ETR: 29 seconds)
+   30% complete (ETR: 32 seconds)
+   40% complete (ETR: 27 seconds)
+   50% complete (ETR: 22 seconds)
+   60% complete (ETR: 18 seconds)
+   70% complete (ETR: 15 seconds)
+   80% complete (ETR: 10 seconds)
+   90% complete (ETR: 5 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 53.88 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415029936574.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415029936574.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415029936574_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415029937341.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415029937341.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415029937341_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.12 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032425577.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032425577.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032425577_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032437794.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032437794.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032437794_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032490464.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032490464.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032490464_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032498154.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032498154.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032498154_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032502596.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032502596.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415032502596_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2878 units from cache.
+Compiling...
+   0% complete (ETR: 50 seconds)
+   10% complete (ETR: 45 seconds)
+   20% complete (ETR: 49 seconds)
+   30% complete (ETR: 46 seconds)
+   40% complete (ETR: 41 seconds)
+   50% complete (ETR: 35 seconds)
+   60% complete (ETR: 28 seconds)
+   70% complete (ETR: 21 seconds)
+   80% complete (ETR: 15 seconds)
+   90% complete (ETR: 8 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 88.68 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415034643331.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415034643331.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415034643331_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415034646393.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415034646393.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415034646393_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.19 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415035374077.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415035374077.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415035374077_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2878 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 464 seconds)
+   20% complete (ETR: 1163 seconds)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 74 seconds)
+   20% complete (ETR: 46 seconds)
+   30% complete (ETR: 33 seconds)
+   40% complete (ETR: 28 seconds)
+   50% complete (ETR: 20 seconds)
+   60% complete (ETR: 16 seconds)
+   70% complete (ETR: 11 seconds)
+   80% complete (ETR: 8 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 59.99 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2878 units from cache.
+Compiling...
+   Compilation completed in 1.47 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.12 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036474671.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036474671.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036474671_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036477978.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036477978.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036477978_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036498817.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036498817.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036498817_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036643212.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036643212.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036643212_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036652806.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036652806.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036652806_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2877 cached/archived units.  Used 2877 / 2878 units from cache.
+Compiling...
+   Compilation completed in 0.02 seconds
+Invalid Unit: com.fourthsource.cc.client.UploadFile
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.02 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036714983.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036714983.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036714983_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036716071.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036716071.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036716071_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036732323.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036732323.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036732323_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.12 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036752669.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036752669.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036752669_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036909879.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036909879.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036909879_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036912297.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036912297.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036912297_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036912931.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036912931.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036912931_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Attribute name "multiple" associated with an element type "input" must be followed by the ' = ' character.
+      [ERROR] Error parsing XML (line 9): Attribute name "multiple" associated with an element type "input" must be followed by the ' = ' character.
+[ERROR] Deferred binding failed for 'com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2877 cached/archived units.  Used 2877 / 2878 units from cache.
+Compiling...
+   Compilation completed in 0.02 seconds
+Invalid Unit: com.fourthsource.cc.client.UploadFile
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.05 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2877 cached/archived units.  Used 2877 / 2878 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036956792.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036956792.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036956792_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036958014.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036958014.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036958014_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036979154.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036979154.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036979154_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036981612.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036981612.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415036981612_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Attribute name "multiple" associated with an element type "input" must be followed by the ' = ' character.
+      [ERROR] Error parsing XML (line 10): Attribute name "multiple" associated with an element type "input" must be followed by the ' = ' character.
+[ERROR] Deferred binding failed for 'com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2877 cached/archived units.  Used 2877 / 2878 units from cache.
+Compiling...
+   Compilation completed in 0.02 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037008783.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037008783.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037008783_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037009979.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037009979.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037009979_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.14 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037028422.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037028422.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037028422_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037042055.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037042055.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037042055_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037216787.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037216787.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.21 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415037216787_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   10% complete (ETR: 46 seconds)
+   10% complete (ETR: 46 seconds)
+   20% complete (ETR: 38 seconds)
+   30% complete (ETR: 26 seconds)
+   40% complete (ETR: 19 seconds)
+   50% complete (ETR: 14 seconds)
+   60% complete (ETR: 12 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 40.44 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 96 seconds)
+   20% complete (ETR: 73 seconds)
+   30% complete (ETR: 51 seconds)
+   40% complete (ETR: 40 seconds)
+   50% complete (ETR: 29 seconds)
+   60% complete (ETR: 22 seconds)
+   70% complete (ETR: 15 seconds)
+   80% complete (ETR: 9 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 55.69 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.06 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.02 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: 62 seconds)
+   10% complete (ETR: 52 seconds)
+   20% complete (ETR: 32 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 18 seconds)
+   50% complete (ETR: 16 seconds)
+   60% complete (ETR: 12 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 36.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.08 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2878 units from cache.
+Compiling...
+   10% complete (ETR: 21 seconds)
+   10% complete (ETR: 21 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 11 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 27.34 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415051934370.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415051934370.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415051934370_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415051937453.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415051937453.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415051937453_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   10% complete (ETR: 39 seconds)
+   10% complete (ETR: 41 seconds)
+   20% complete (ETR: 36 seconds)
+   30% complete (ETR: 25 seconds)
+   40% complete (ETR: 18 seconds)
+   50% complete (ETR: 14 seconds)
+   60% complete (ETR: 11 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 31.98 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.23 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   10% complete (ETR: 36 seconds)
+   10% complete (ETR: 39 seconds)
+   20% complete (ETR: 36 seconds)
+   30% complete (ETR: 25 seconds)
+   40% complete (ETR: 18 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 41.15 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.22 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.07 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: 51 seconds)
+   10% complete (ETR: 47 seconds)
+   20% complete (ETR: 36 seconds)
+   30% complete (ETR: 24 seconds)
+   40% complete (ETR: 18 seconds)
+   50% complete (ETR: 14 seconds)
+   60% complete (ETR: 12 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 37.54 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.06 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.05 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: 60 seconds)
+   10% complete (ETR: 56 seconds)
+   20% complete (ETR: 48 seconds)
+   30% complete (ETR: 38 seconds)
+   40% complete (ETR: 29 seconds)
+   50% complete (ETR: 22 seconds)
+   60% complete (ETR: 17 seconds)
+   70% complete (ETR: 13 seconds)
+   80% complete (ETR: 8 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 54.68 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2878 units from cache.
+Compiling...
+   0% complete (ETR: 67 seconds)
+   10% complete (ETR: 51 seconds)
+   20% complete (ETR: 28 seconds)
+   30% complete (ETR: 19 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 11 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 35.25 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.15 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.20 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117265483.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117265483.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117265483_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117270825.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117270825.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117270825_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.14 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117356357.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117356357.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117356357_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117390271.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117390271.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117390271_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117392136.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117392136.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117392136_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117406907.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117406907.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117406907_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117526394.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117526394.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117526394_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117528165.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117528165.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117528165_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117529776.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117529776.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117529776_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117535760.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117535760.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117535760_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117539545.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117539545.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117539545_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117571237.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117571237.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117571237_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117581599.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117581599.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117581599_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117592614.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117592614.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117592614_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117622013.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117622013.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.12 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117622013_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117632083.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117632083.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415117632083_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2878 units from cache.
+Compiling...
+   10% complete (ETR: 37 seconds)
+   10% complete (ETR: 38 seconds)
+   20% complete (ETR: 36 seconds)
+   30% complete (ETR: 34 seconds)
+   40% complete (ETR: 30 seconds)
+   50% complete (ETR: 26 seconds)
+   60% complete (ETR: 21 seconds)
+   70% complete (ETR: 16 seconds)
+   80% complete (ETR: 10 seconds)
+   90% complete (ETR: 5 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 86.62 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118299635.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118299635.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118299635_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118302138.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118302138.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118302138_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118421240.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118421240.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118421240_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118423731.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118423731.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118423731_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118426616.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118426616.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118426616_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118428071.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118428071.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118428071_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118459339.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118459339.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118459339_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2877 cached/archived units.  Used 2877 / 2878 units from cache.
+Compiling...
+   Compilation completed in 0.03 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118469789.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118469789.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118469789_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118471244.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118471244.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118471244_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118489708.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118489708.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118489708_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118578396.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118578396.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415118578396_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2877 cached/archived units.  Used 2877 / 2878 units from cache.
+Compiling...
+   Compilation completed in 0.11 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Footer.FooterUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Footer_FooterUiBinderImpl_designTime1415118763932.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Footer_FooterUiBinderImpl_designTime1415118763932.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Footer_FooterUiBinderImpl_designTime1415118763932_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Footer.FooterUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Footer_FooterUiBinderImpl_designTime1415118764662.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Footer_FooterUiBinderImpl_designTime1415118764662.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Footer_FooterUiBinderImpl_designTime1415118764662_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2878 units from cache.
+Compiling...
+   10% complete (ETR: 34 seconds)
+   10% complete (ETR: 34 seconds)
+   20% complete (ETR: 27 seconds)
+   30% complete (ETR: 33 seconds)
+   40% complete (ETR: 30 seconds)
+   50% complete (ETR: 25 seconds)
+   60% complete (ETR: 20 seconds)
+   70% complete (ETR: 15 seconds)
+   80% complete (ETR: 10 seconds)
+   90% complete (ETR: 5 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 94.03 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119414851.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119414851.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119414851_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119416740.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119416740.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119416740_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119430050.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119430050.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119430050_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119431570.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119431570.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119431570_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2877 cached/archived units.  Used 2877 / 2878 units from cache.
+Compiling...
+   Compilation completed in 1.31 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119771134.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119771134.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119771134_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119773652.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119773652.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415119773652_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120120490.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120120490.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120120490_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120123718.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120123718.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120123718_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.36 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120126193.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120126193.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415120126193_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415124939688.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415124939688.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415124939688_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415124947590.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415124947590.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415124947590_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125003704.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125003704.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125003704_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125014007.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125014007.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125014007_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.17 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125025333.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125025333.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125025333_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125027232.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125027232.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125027232_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.19 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125028302.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125028302.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125028302_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125031850.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125031850.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125031850_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.63 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125544593.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125544593.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415125544593_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.19 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126424787.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126424787.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126424787_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126431408.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126431408.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126431408_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126582779.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126582779.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126582779_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126605925.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126605925.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126605925_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.63 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126618426.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126618426.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126618426_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126846525.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126846525.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126846525_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126854129.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126854129.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415126854129_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.22 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127436168.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127436168.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127436168_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127473602.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127473602.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127473602_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.57 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127617355.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127617355.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127617355_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127642956.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127642956.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127642956_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.25 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127652999.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127652999.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127652999_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127665423.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127665423.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127665423_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127669882.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127669882.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127669882_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127676723.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127676723.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127676723_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127774795.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127774795.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127774795_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127776942.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127776942.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127776942_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127794062.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127794062.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127794062_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127816064.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127816064.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127816064_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127842732.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127842732.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127842732_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127844070.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127844070.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127844070_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127956362.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127956362.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127956362_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127974582.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127974582.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415127974582_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128017585.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128017585.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128017585_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128762837.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128762837.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128762837_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128954357.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128954357.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415128954357_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 5.40 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140743588.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140743588.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.15 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140743588_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.62 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.28 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140756455.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140756455.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140756455_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.14 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140838995.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140838995.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415140838995_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.49 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415141341228.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415141341228.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415141341228_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.15 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2878 units from cache.
+Compiling...
+   10% complete (ETR: 40 seconds)
+   10% complete (ETR: 40 seconds)
+   20% complete (ETR: 38 seconds)
+   30% complete (ETR: 34 seconds)
+   40% complete (ETR: 35 seconds)
+   50% complete (ETR: 30 seconds)
+   60% complete (ETR: 25 seconds)
+   70% complete (ETR: 20 seconds)
+   80% complete (ETR: 14 seconds)
+   90% complete (ETR: 7 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 165.58 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.17 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143087391.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143087391.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143087391_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143090472.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143090472.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143090472_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143099864.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143099864.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415143099864_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: 47 seconds)
+   10% complete (ETR: 46 seconds)
+   20% complete (ETR: 37 seconds)
+   30% complete (ETR: 26 seconds)
+   40% complete (ETR: 19 seconds)
+   50% complete (ETR: 17 seconds)
+   60% complete (ETR: 13 seconds)
+   70% complete (ETR: 9 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 46.29 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2879 units from cache.
+Compiling...
+   0% complete (ETR: 61 seconds)
+   10% complete (ETR: 49 seconds)
+   20% complete (ETR: 35 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 19 seconds)
+   50% complete (ETR: 17 seconds)
+   60% complete (ETR: 15 seconds)
+   70% complete (ETR: 11 seconds)
+   80% complete (ETR: 7 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 52.82 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415215167898.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415215167898.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415215167898_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415215172192.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415215172192.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415215172192_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units

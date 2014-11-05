@@ -4,8 +4,40 @@
 		xmlns:context="http://www.springframework.org/schema/context"
 		xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
 							http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
-
 	<!-- Registers all of Spring's standard post processors for annotation based configuration -->
 	<context:annotation-config />
 	<context:component-scan base-package="com.fourthsource.cc" />
+	<context:property-placeholder location="/WEB-INF/appProperties.properties" />
+	
+	<bean id="fileUploadProperties" class="com.fourthsource.cc.server.util.FileUploadProperties">
+	    <property name="path" value="${fileUpload.property.path}" />
+	    
+	    <property name="successMessage">
+	        <bean id="successMessage" class="com.fourthsource.cc.shared.Message">
+				<property name="code" value="${fileUpload.property.code.success}" />
+	    		<property name="message" value="${fileUpload.property.message.success}" />
+			</bean>
+	    </property>
+	    
+	    <property name="fileSizeExceeded">
+	        <bean id="fileSizeExceeded" class="com.fourthsource.cc.shared.Message">
+				<property name="code" value="${fileUpload.property.code.fileSizeExceeded}" />
+	    		<property name="message" value="${fileUpload.property.message.fileSizeExceeded}" />
+			</bean>
+	    </property>
+	    
+	    <property name="fileEmpty">
+	        <bean id="fileEmpty" class="com.fourthsource.cc.shared.Message">
+				<property name="code" value="${fileUpload.property.code.fileEmpty}" />
+	    		<property name="message" value="${fileUpload.property.message.fileEmpty}" />
+			</bean>
+	    </property>
+	    
+	    <property name="generalException">
+	        <bean id="generalException" class="com.fourthsource.cc.shared.Message">
+				<property name="code" value="${fileUpload.property.code.generalException}" />
+	    		<property name="message" value="${fileUpload.property.message.generalException}" />
+			</bean>
+	    </property>
+	</bean>
 </beans>

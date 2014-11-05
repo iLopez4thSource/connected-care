@@ -24,7 +24,7 @@ public class ConnectedCare implements EntryPoint {
 				TestService.Util.getService().getInfo(new MethodCallback<Message>() {
 					@Override
 					public void onSuccess(Method method, Message response) {
-						RootPanel.get().add(new Label("Message: " + response.message + ", Time: " + response.time));
+						RootPanel.get().add(new Label("Message: " + response.getMessage()));
 					}
 					
 					@Override
