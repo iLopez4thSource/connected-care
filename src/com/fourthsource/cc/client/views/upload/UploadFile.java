@@ -1,5 +1,6 @@
 package com.fourthsource.cc.client.views.upload;
 
+import com.fourthsource.cc.client.views.commons.PopUpWindow;
 import com.fourthsource.cc.shared.ResponseFileUpload;
 import com.fourthsource.cc.shared.ResponseFileUpload.ResponseFileUploadJED;
 import com.google.gwt.core.client.GWT;
@@ -10,7 +11,6 @@ import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.json.client.JSONParser;
 import com.google.gwt.json.client.JSONValue;
 import com.google.gwt.uibinder.client.UiBinder;
-import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.uibinder.client.UiField;
@@ -34,6 +34,7 @@ public class UploadFile extends Composite {
 	@UiField TextBox textBoxFileUpload;
 	@UiField FileUpload fileUpload;
 	@UiField Button fileUploadButton;
+	private PopUpWindow dialogBox;
 
 	interface UploadFileUiBinder extends UiBinder<Widget, UploadFile> {
 	}
@@ -74,8 +75,17 @@ public class UploadFile extends Composite {
             	ResponseFileUploadJED codec = GWT.create(ResponseFileUploadJED.class);
             	ResponseFileUpload response = codec.decode(value);
             	
-                Window.alert(response.getResponse().getMessage());
-                textBoxFileUpload.setValue("");
+                dialogBox = new PopUpWindow(response.getResponse().getMessageType(), response.getResponse().getMessage());
+                
+                dialogBox.addCloseButtonClickHandler(new ClickHandler() {
+        			@Override
+        			public void onClick(ClickEvent event) {
+        				dialogBox.hide();
+        				textBoxFileUpload.setValue("");
+        			}
+        		});
+                
+                dialogBox.show();
             }
         });
 	}

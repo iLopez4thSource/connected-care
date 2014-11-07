@@ -68,8 +68,8 @@ div.file-upload:before {
 }
 
 div.file-upload input {
-	height: 80px !important;
-	width: 22px !important;
+	height: 22px !important;
+	width: 80px !important;
 	position: relative;
 	display: inline;
 	cursor: pointer;

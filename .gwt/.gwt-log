@@ -3388,3 +3388,1957 @@ Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
       Compiling...
          Compilation completed in 0.07 seconds
       Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2879 cached/archived units.  Used 2879 / 2879 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.72 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415232612877.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415232612877.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415232612877_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header.HeaderUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415232617785.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415232617785.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.Header_HeaderUiBinderImpl_designTime1415232617785_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.24 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2881 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 283 seconds)
+   20% complete (ETR: 292 seconds)
+   30% complete (ETR: 271 seconds)
+   40% complete (ETR: 238 seconds)
+   50% complete (ETR: 205 seconds)
+   60% complete (ETR: 160 seconds)
+   70% complete (ETR: 115 seconds)
+   80% complete (ETR: 73 seconds)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 97 seconds)
+   20% complete (ETR: 65 seconds)
+   30% complete (ETR: 43 seconds)
+   40% complete (ETR: 31 seconds)
+   50% complete (ETR: 24 seconds)
+   60% complete (ETR: 19 seconds)
+   70% complete (ETR: 13 seconds)
+   80% complete (ETR: 8 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 58.34 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2882 units from cache.
+Compiling...
+   20% complete (ETR: 16 seconds)
+   20% complete (ETR: 16 seconds)
+   20% complete (ETR: 16 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 4 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 22.06 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297703087.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297703087.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297703087_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297705316.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297705316.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297705316_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297777214.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297777214.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297777214_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297798882.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297798882.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297798882_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297845222.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297845222.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297845222_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297850934.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297850934.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297850934_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297856140.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297856140.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297856140_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297867666.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297867666.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297867666_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297870304.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297870304.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297870304_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297882297.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297882297.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297882297_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297884077.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297884077.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297884077_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297890175.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297890175.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297890175_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297896785.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297896785.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297896785_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297901105.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297901105.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297901105_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297921077.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297921077.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297921077_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.12 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297927417.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297927417.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297927417_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297946917.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297946917.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415297946917_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.12 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2882 units from cache.
+Compiling...
+   10% complete (ETR: 45 seconds)
+   10% complete (ETR: 44 seconds)
+   20% complete (ETR: 49 seconds)
+   30% complete (ETR: 47 seconds)
+   40% complete (ETR: 39 seconds)
+   50% complete (ETR: 31 seconds)
+   60% complete (ETR: 24 seconds)
+   70% complete (ETR: 18 seconds)
+   80% complete (ETR: 12 seconds)
+   90% complete (ETR: 6 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 77.15 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415299897121.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415299897121.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415299897121_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415299898774.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415299898774.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415299898774_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300796815.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300796815.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300796815_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300858137.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300858137.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300858137_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300868393.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300868393.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300868393_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300872911.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300872911.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300872911_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300891113.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300891113.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300891113_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300963100.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300963100.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300963100_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300969047.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300969047.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415300969047_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301146656.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301146656.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301146656_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301153498.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301153498.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301153498_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301434514.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301434514.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301434514_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301453410.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301453410.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301453410_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301459169.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301459169.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301459169_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301460555.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301460555.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301460555_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301553089.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301553089.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301553089_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301554397.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301554397.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301554397_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301577525.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301577525.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301577525_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301584544.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301584544.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301584544_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301588038.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301588038.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301588038_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301615945.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301615945.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301615945_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301618906.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301618906.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301618906_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301620938.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301620938.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301620938_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301628377.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301628377.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301628377_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301633982.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301633982.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301633982_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301636750.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301636750.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301636750_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301651349.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301651349.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415301651349_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312153704.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312153704.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312153704_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312161500.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312161500.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312161500_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312168781.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312168781.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312168781_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312171628.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312171628.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312171628_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312185505.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312185505.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312185505_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312188639.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312188639.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312188639_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312192058.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312192058.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312192058_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312246644.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312246644.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312246644_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312249244.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312249244.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312249244_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312250688.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312250688.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312250688_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312251652.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312251652.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312251652_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312253602.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312253602.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312253602_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312282577.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312282577.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312282577_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312286744.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312286744.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312286744_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312296443.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312296443.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312296443_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312301594.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312301594.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312301594_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312305690.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312305690.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312305690_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312317227.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312317227.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312317227_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312326017.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312326017.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312326017_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312359972.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312359972.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312359972_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312380673.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312380673.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312380673_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312385328.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312385328.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312385328_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312424961.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312424961.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312424961_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312440179.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312440179.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312440179_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312455741.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312455741.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312455741_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312467298.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312467298.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415312467298_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415313652369.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415313652369.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415313652369_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415313758204.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415313758204.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415313758204_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2879 cached/archived units.  Used 2879 / 2882 units from cache.
+Compiling...
+   Compilation completed in 1.89 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 1.25 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 2.15 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315126934.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315126934.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315126934_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.27 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315146882.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315146882.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315146882_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.06 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315447103.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315447103.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315447103_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315458487.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315458487.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315458487_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315474784.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315474784.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315474784_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315546380.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315546380.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315546380_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315559401.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315559401.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415315559401_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 3.09 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415316157697.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415316157697.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415316157697_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415316189168.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415316189168.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415316189168_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: 78 seconds)
+   10% complete (ETR: 57 seconds)
+   20% complete (ETR: 34 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 14 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 35.40 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0.01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2882 units from cache.
+Compiling...
+   Compilation completed in 1.33 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.11 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415318687566.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415318687566.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415318687566_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile.UploadFileUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415318691520.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415318691520.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.upload.UploadFile_UploadFileUiBinderImpl_designTime1415318691520_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2882 cached/archived units.  Used 2882 / 2882 units from cache.
+Compiling...
+   Compilation completed in 0.03 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318711974.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318711974.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318711974_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318713392.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318713392.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318713392_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow.TemplatePopUpWindowUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318722064.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318722064.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.fourthsource.cc.client.views.commons.TemplatePopUpWindow_TemplatePopUpWindowUiBinderImpl_designTime1415318722064_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units

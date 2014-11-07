@@ -1,0 +1,26 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+	
+	</ui:style>
+	<g:HTMLPanel>
+		<g:VerticalPanel spacing="4" width="260px" height="90px">
+			<g:Cell width="">
+				<g:HorizontalPanel width="100%">
+				<g:Image ui:field="imageWindowType" width="48px" height="48px"/>
+				<g:Cell horizontalAlignment="ALIGN_CENTER" verticalAlignment="ALIGN_MIDDLE" width="100%">
+					<g:InlineLabel text="Message" ui:field="labelMessage" horizontalAlignment="ALIGN_CENTER"/>
+				</g:Cell>
+			</g:HorizontalPanel>
+			</g:Cell>
+			<g:Cell horizontalAlignment="ALIGN_CENTER">
+				<g:HorizontalPanel spacing="4" width="60%" horizontalAlignment="ALIGN_CENTER">
+				<g:Button text="Yes" ui:field="okButton"/>
+				<g:Button text="No" ui:field="noButton"/>
+				<g:Button ui:field="cancelButton" text="Cancel"/>
+			</g:HorizontalPanel>
+			</g:Cell>
+		</g:VerticalPanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 

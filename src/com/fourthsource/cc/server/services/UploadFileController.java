@@ -17,6 +17,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.fourthsource.cc.server.util.FileUploadProperties;
 import com.fourthsource.cc.shared.Message;
+import com.fourthsource.cc.shared.MessageType;
 import com.fourthsource.cc.shared.ResponseFileUpload;
 
 @Controller
@@ -39,17 +40,22 @@ public class UploadFileController {
                 stream.close();
                 
                 Message message = fileUploadProperties.getSuccessMessage();
+                message.setMessageType(MessageType.OK);
                 message.setMessage(String.format(message.getMessage(), file.getOriginalFilename()));
                 
                 response.setResponse(message);
             } catch (Exception e) {
             	Message message = fileUploadProperties.getGeneralException();
+            	message.setMessageType(MessageType.ERROR);
                 message.setMessage(String.format(message.getMessage(), file.getOriginalFilename()));
                 
             	response.setResponse(message);
             }
         } else {
-        	response.setResponse(fileUploadProperties.getFileEmpty());
+        	Message message = fileUploadProperties.getFileEmpty();
+        	message.setMessageType(MessageType.WARNING);
+        	
+        	response.setResponse(message);
         }
         
         return response;
@@ -58,9 +64,9 @@ public class UploadFileController {
 	@ExceptionHandler(MaxUploadSizeExceededException.class)
     public @ResponseBody ResponseFileUpload handleMaxUploadSizeExceededException(MaxUploadSizeExceededException e) {
 		ResponseFileUpload response = new ResponseFileUpload();
-		
-		response.setResponse(fileUploadProperties.getFileSizeExceeded());
-		
+		Message message = fileUploadProperties.getFileSizeExceeded();
+		message.setMessageType(MessageType.ERROR);
+		response.setResponse(message);
 		return response;
     }
 	

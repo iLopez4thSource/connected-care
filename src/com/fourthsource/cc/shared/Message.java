@@ -8,6 +8,7 @@ public class Message {
 
 	private int code;
     private String message;
+    private MessageType messageType;
 
     public interface MessageJED extends JsonEncoderDecoder<Message> {
     }
@@ -36,6 +37,14 @@ public class Message {
 
 	public void setMessage(String message) {
 		this.message = message;
+	}
+
+	public MessageType getMessageType() {
+		return messageType;
+	}
+
+	public void setMessageType(MessageType messageType) {
+		this.messageType = messageType;
 	}
     
 }
