@@ -1,35 +1,14 @@
 form.form-file-upload {
-	margin-top: -12px;
-}
-
-div.panel-file-upload {
-	width: 280px !important;
-	height: 20px !important;
-	overflow: visible !important;
-}
-
-input.file {
-	width: 200px !important;
-	height: 20px !important;
-	color: #888888;
-	padding: 5px;
-	border: 1px solid #BBBBBB;
-	border-right: 0;
-	
-	-webkit-border-top-left-radius: 5px;
-	-webkit-border-bottom-left-radius: 5px;
-	-moz-border-radius-topleft: 5px;
-	-moz-border-radius-bottomleft: 5px;
-	border-top-left-radius: 5px;
-	border-bottom-left-radius: 5px;
-	
-	outline: none;
+	margin: 0px;
 }
 
 div.file-upload {
-	width: 80px !important;
-	height: 22px !important;
-	border: 1px solid #BBBBBB;
+	width: 90px !important;
+	height: 20px !important;
+	color: #000000;
+	text-align: center;
+	border: 1px solid;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgb(179, 179, 179);
 	
 	background: #F2F2F2;
 	background: -moz-linear-gradient(top, #F2F2F2 0%, #F2F2F2 44%, #EDEDED 100%);
@@ -40,11 +19,6 @@ div.file-upload {
 	background: linear-gradient(top, #F2F2F2 0%, #F2F2F2 44%, #EDEDED 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F2F2F2', endColorstr='#EDEDED', GradientType=0);
 
-	display: inline;
-	position: absolute;
-	overflow: hidden;
-	cursor: pointer;
-	
 	-webkit-border-top-right-radius: 5px;
 	-webkit-border-bottom-right-radius: 5px;
 	-moz-border-radius-topright: 5px;
@@ -52,26 +26,31 @@ div.file-upload {
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	
-	color: #000000;
-	text-align: center;
 	padding-top: 8px;
+	display: inline;
+	position: absolute;
+	overflow: hidden;
+	cursor: pointer;
 }
 
 div.file-upload:before {
-	content: 'Upload';
-	position: absolute;
-	top: 6px;
+	content: 'Choose File';
+	font-size: 14px;
+	text-align: center;
+	text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.75);
+	
+	top: 4px;
 	left: 0;
 	right: 0;
-	text-align: center;
+	position: absolute;
 	cursor: pointer;
 }
 
 div.file-upload input {
-	height: 22px !important;
-	width: 80px !important;
-	position: relative;
+	width: 90px !important;
+	height: 20px !important;
 	display: inline;
-	cursor: pointer;
 	opacity: 0;
+	position: relative;
+	cursor: pointer;
 }

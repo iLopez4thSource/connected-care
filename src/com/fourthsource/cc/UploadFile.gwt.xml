@@ -3,8 +3,9 @@
 <module>
 	<inherits name='com.google.gwt.user.User' />
 	<inherits name='org.fusesource.restygwt.RestyGWT' />
-
+	
 	<inherits name='com.google.gwt.user.theme.clean.Clean' />
+	<inherits name="com.github.gwtbootstrap.Bootstrap"/>
 
 	<entry-point class="com.fourthsource.cc.client.UploadFile" />
 

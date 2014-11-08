@@ -1,23 +1,22 @@
 package com.fourthsource.cc.client.views.commons;
 
 import com.fourthsource.cc.shared.MessageType;
+import com.github.gwtbootstrap.client.ui.Modal;
+import com.github.gwtbootstrap.client.ui.constants.BackdropType;
 import com.google.gwt.event.dom.client.ClickHandler;
-import com.google.gwt.user.client.ui.DialogBox;
 import com.google.web.bindery.event.shared.HandlerRegistration;
 
-public class PopUpWindow extends DialogBox {
+public class PopUpWindow {
 	
-	TemplatePopUpWindow layout = new TemplatePopUpWindow();
+	ModalWindow layout = new ModalWindow();
 
 	public PopUpWindow(MessageType type, String message) {
 		super();
-	    setText("Message Window");
-	    setGlassEnabled(true);
-        setAnimationEnabled(true);
-	    setWidget(layout);
-	    center();
-	    
-	    layout.setMessage(message);
+//		layout.setTitle("Connected Care Message");
+//		layout.setBackdrop(BackdropType.STATIC);
+//		layout.setKeyboard(true);
+//		layout.setAnimation(true);
+	    layout.modal.add(layout.modalFooter);
 	    
 	    if(type.equals(MessageType.OK)) {
 	    	layout.setImageSource("/images/accepted.png");
@@ -43,6 +42,10 @@ public class PopUpWindow extends DialogBox {
 	
 	public HandlerRegistration addCloseButtonClickHandler(ClickHandler handler) {
 		return layout.addCloseButtonClickHandler(handler);
+	}
+	
+	public Modal getModal() {
+		return layout.modal;
 	}
 	
 }

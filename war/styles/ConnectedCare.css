@@ -2,3 +2,14 @@
 	width: 100%;
 	height: 100%;
 }
+
+div.navigation-bar-fix {
+	margin: 0px;
+}
+
+img.header-logo {
+	width: 195px;
+	height: 30px;
+	float: left;
+	padding: 5px 50px;
+}

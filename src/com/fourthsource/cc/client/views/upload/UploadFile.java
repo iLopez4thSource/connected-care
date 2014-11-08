@@ -14,7 +14,6 @@ import com.google.gwt.uibinder.client.UiBinder;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.uibinder.client.UiField;
-import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.FormPanel;
 import com.google.gwt.user.client.ui.FileUpload;
 import com.google.gwt.user.client.ui.FormPanel.SubmitCompleteEvent;
@@ -23,7 +22,6 @@ import com.google.gwt.user.client.ui.FormPanel.SubmitEvent;
 import com.google.gwt.user.client.ui.FormPanel.SubmitHandler;
 import com.google.gwt.user.client.ui.AbsolutePanel;
 import com.google.gwt.user.client.ui.SimplePanel;
-import com.google.gwt.user.client.ui.TextBox;
 
 public class UploadFile extends Composite {
 
@@ -31,9 +29,9 @@ public class UploadFile extends Composite {
 	@UiField AbsolutePanel absolutePanel;
 	@UiField SimplePanel simplePanel;
 	@UiField FormPanel form;
-	@UiField TextBox textBoxFileUpload;
 	@UiField FileUpload fileUpload;
-	@UiField Button fileUploadButton;
+	@UiField com.github.gwtbootstrap.client.ui.Button fileUploadButton;
+	@UiField com.github.gwtbootstrap.client.ui.TextBox textBoxFileUpload;
 	private PopUpWindow dialogBox;
 
 	interface UploadFileUiBinder extends UiBinder<Widget, UploadFile> {
@@ -52,7 +50,7 @@ public class UploadFile extends Composite {
 			}
 		});
 		
-        fileUploadButton.addClickHandler(new ClickHandler() {
+		fileUploadButton.addClickHandler(new ClickHandler() {
             @Override
             public void onClick(ClickEvent event) {
                 fileUpload.setEnabled(true);
@@ -80,12 +78,12 @@ public class UploadFile extends Composite {
                 dialogBox.addCloseButtonClickHandler(new ClickHandler() {
         			@Override
         			public void onClick(ClickEvent event) {
-        				dialogBox.hide();
+        				dialogBox.getModal().hide();
         				textBoxFileUpload.setValue("");
         			}
         		});
                 
-                dialogBox.show();
+                dialogBox.getModal().show();
             }
         });
 	}

@@ -1,12 +1,16 @@
 <!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
-<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
-	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+<ui:UiBinder 	xmlns:ui="urn:ui:com.google.gwt.uibinder" xmlns:g="urn:import:com.google.gwt.user.client.ui"
+				xmlns:b="urn:import:com.github.gwtbootstrap.client.ui">
 	<ui:style>
 	
 	</ui:style>
 	<g:HTMLPanel>
-		<g:HorizontalPanel>
-			<g:Label text="Connected Care Solution"/>
-		</g:HorizontalPanel>
+		<b:Navbar inverse="false" pullRight="false" position="DEFAULT" ui:field="navigationBar" styleName="navbar">
+				<g:Image url="images/4thsource_banner.png" styleName="header-logo" />
+				<b:Brand text="Connected Care"></b:Brand>
+				<b:Nav>
+	            	<b:NavLink text="Import Data" active="true">Import Data</b:NavLink>
+	         	</b:Nav>
+	     	</b:Navbar>
 	</g:HTMLPanel>
 </ui:UiBinder> 
