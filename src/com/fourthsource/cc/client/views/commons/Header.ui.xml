@@ -9,7 +9,7 @@
 				<g:Image url="images/4thsource_banner.png" styleName="header-logo" />
 				<b:Brand text="Connected Care"></b:Brand>
 				<b:Nav>
-	            	<b:NavLink text="Import Data" active="true">Import Data</b:NavLink>
+	            	<b:NavLink text="Import Data" active="true" ui:field="importDataButton">Import Data</b:NavLink>
 	         	</b:Nav>
 	     	</b:Navbar>
 	</g:HTMLPanel>
