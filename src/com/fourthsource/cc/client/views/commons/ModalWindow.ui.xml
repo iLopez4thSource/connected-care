@@ -4,18 +4,18 @@
 	<ui:style>
 	
 	</ui:style>
-	<b:Modal ui:field="modal" title="My Modal" backdrop="STATIC" keyboard="true" animation="true">
+	<b:Modal  ui:field="modal" title="Connected Care Message" backdrop="STATIC" keyboard="true" animation="true">
 	    <g:HorizontalPanel width="100%">
 	    	<g:Image width="48px" height="48px" ui:field="imageWindowType"/>
 	    	<g:Cell width="100%" horizontalAlignment="ALIGN_CENTER" verticalAlignment="ALIGN_MIDDLE">
-	    		<g:Label ui:field="labelMessage" text="Message">Modal Content!</g:Label>
+	    		<g:Label ui:field="labelMessage" styleName="message-label" text="Message">Message</g:Label>
 	    	</g:Cell>
 	    </g:HorizontalPanel>
 	    <b:ModalFooter ui:field="modalFooter">
 		    <b:ButtonGroup>
-		    	<b:Button icon="FILE" type="PRIMARY" ui:field="okButton">Yes</b:Button>
-		    	<b:Button icon="FILE" type="PRIMARY" ui:field="noButton">No</b:Button>
-		    	<b:Button icon="FILE" type="PRIMARY" ui:field="cancelButton">Cancel</b:Button>
+		    	<b:Button icon="THUMBS_UP" type="PRIMARY" ui:field="okButton">Yes</b:Button>
+		    	<b:Button icon="THUMBS_DOWN" type="PRIMARY" ui:field="noButton">No</b:Button>
+		    	<b:Button icon="REMOVE" type="PRIMARY" ui:field="cancelButton">Cancel</b:Button>
 	        </b:ButtonGroup>
 	    </b:ModalFooter>
 	</b:Modal>

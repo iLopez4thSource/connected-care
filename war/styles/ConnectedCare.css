@@ -13,3 +13,8 @@ img.header-logo {
 	float: left;
 	padding: 5px 50px;
 }
+
+div.message-label {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
