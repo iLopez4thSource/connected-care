@@ -6,11 +6,11 @@
 	</ui:style>
 	<g:HTMLPanel>
 		<b:Navbar inverse="false" pullRight="false" position="DEFAULT" ui:field="navigationBar" styleName="navbar">
-				<g:Image url="images/4thsource_banner.png" styleName="header-logo" />
-				<b:Brand text="Connected Care"></b:Brand>
-				<b:Nav>
-	            	<b:NavLink text="Import Data" active="true" ui:field="importDataButton">Import Data</b:NavLink>
-	         	</b:Nav>
-	     	</b:Navbar>
+			<g:Image url="images/4thsource_banner.png" styleName="header-logo" />
+			<b:Brand text="Connected Care"></b:Brand>
+			<b:Nav>
+	           	<b:NavLink text="Import Data" active="true" ui:field="importDataButton">Import Data</b:NavLink>
+	       	</b:Nav>
+	    </b:Navbar>
 	</g:HTMLPanel>
 </ui:UiBinder> 

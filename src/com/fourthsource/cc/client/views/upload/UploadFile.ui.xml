@@ -7,14 +7,14 @@
 	<g:HTMLPanel>
 		<g:HorizontalPanel width="610px" spacing="4">
 			<g:FormPanel ui:field="form" styleName="form-file-upload" action="RESTServices/uploadFile">
-						<g:AbsolutePanel ui:field="absolutePanel">
-							<b:TextBox enabled="false" name="fileName" ui:field="textBoxFileUpload" width="350px"/>
-							<g:SimplePanel width="100%" height="100%" styleName="file-upload" ui:field="simplePanel">
-								<g:FileUpload ui:field="fileUpload" name="file" width="100%" height="100%"/>
-							</g:SimplePanel>
-						</g:AbsolutePanel>
-					</g:FormPanel>
-				<b:Button text="Upload File..." width="90px" ui:field="fileUploadButton" caret="false" block="false" focus="false"/>
-			</g:HorizontalPanel>
+				<g:AbsolutePanel ui:field="absolutePanel">
+					<b:TextBox enabled="false" name="fileName" ui:field="textBoxFileUpload" width="350px"/>
+					<g:SimplePanel width="100%" height="100%" styleName="file-upload" ui:field="simplePanel">
+						<g:FileUpload ui:field="fileUpload" name="file" width="100%" height="100%"/>
+					</g:SimplePanel>
+				</g:AbsolutePanel>
+			</g:FormPanel>
+			<b:Button text="Upload File..." width="90px" ui:field="fileUploadButton" caret="false" block="false" focus="false"/>
+		</g:HorizontalPanel>
 	</g:HTMLPanel>
 </ui:UiBinder> 
