@@ -28,7 +28,7 @@ public class Main extends Composite {
 	
 	private AlertBlock createHeader() {
 		AlertBlock header = new AlertBlock();
-		
+
 		header.setType(AlertType.INFO);
 		header.setClose(false);
 		header.setHeading("Import Data");
