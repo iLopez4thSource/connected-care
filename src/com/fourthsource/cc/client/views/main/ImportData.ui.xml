@@ -18,10 +18,9 @@
 			<g:Cell horizontalAlignment="ALIGN_CENTER" verticalAlignment="ALIGN_BOTTOM">
 				<b:Well width="90%" size="LARGE">
 					<g:Label text="Files Uploaded" styleName="title-label" horizontalAlignment="ALIGN_CENTER"/>
-					<g:VerticalPanel ui:field="filesUploadedPanel">
+					<g:VerticalPanel ui:field="filesUploadedPanel" width="100%">
 						<b:CellTable ui:field="filesUploadedTable">
-    					
- 					</b:CellTable>
+ 						</b:CellTable>
 					</g:VerticalPanel>
 				</b:Well>
 			</g:Cell>
